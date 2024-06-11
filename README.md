@@ -15,7 +15,7 @@
 
 
 ### 💻 &nbsp;My Stack Work
-
+	 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> </img>&emsp;
 
 ### 📞 &nbsp;Contact me
 <p>
