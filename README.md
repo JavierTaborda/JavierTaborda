@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
         &emsp;
     <a target="_blank" href="https://wa.me/+584144334816">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+    <img src="(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)"></img></a>
         &emsp;
   <br>
 </p>
