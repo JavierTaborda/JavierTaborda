@@ -10,7 +10,7 @@
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
 
-
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></img>	
-
 <br>
+
 ### 📞 &nbsp;Contact me
 <p>
   <br>	
