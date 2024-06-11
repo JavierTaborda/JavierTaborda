@@ -4,7 +4,12 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
-
+- Developed a **web platform and REST API** for production management at GrandBay, used daily by over 200 users.
+- Implemented **IoT technology** to connect plant equipment, enabling real-time monitoring and OEE analysis.
+- Optimized **SQL Server databases**, enhancing operational efficiency and handling data from DB2 and AS400 reports.
+- Created **indicators and metrics** with Power BI and Excel, providing insights for decision-making.
+- Employed **Microsoft Office tools** for advanced project management.
+- Led **automation projects** for processes, improving organizational productivity.
 
 <br>
 
