@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"></img>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white%29)](https://wa.me/+584144334816)
+
 ### 📞 &nbsp;Contact me
 <p>
   <br>	
@@ -48,8 +48,10 @@
         &emsp;
     <a target="_blank" href="mailto:javiert.develop@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-
+        &emsp;
+    <a target="_blank" href="https://wa.me/+584144334816">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+        &emsp;
   <br>
 </p>
 
@@ -59,7 +61,7 @@
   <a href="https://github.com/JavierTaborda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierTaborda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/JavierTaborda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierTaborda&layout=compact&langs_count=8&theme=chartreuse-dark"/>
   </a>
 </p>
