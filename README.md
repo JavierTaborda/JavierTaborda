@@ -34,13 +34,13 @@
 
 <p align="center">
   <a href="https://github.com/JavierTaborda">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierTaborda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierTaborda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierTaborda&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierTaborda&layout=compact&langs_count=8&theme=chartreuse-dark"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierTaborda&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierTaborda&theme=chartreuse-dark&hide_border=true"/>
 </p>
