@@ -10,7 +10,7 @@
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
