@@ -2,8 +2,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+- 🎓 &nbsp; I am a Backend Developer and I am an Information Engineer from Venezuela
 - 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 200 users.
 - 🤖 &nbsp;  Implemented **IoT technology** to connect plant equipment, enabling real-time monitoring and OEE analysis.
 - 💾 &nbsp;  Optimized **SQL Server databases**, enhancing operational efficiency and handling data from DB2 and AS400 reports.
