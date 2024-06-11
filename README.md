@@ -10,7 +10,6 @@
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
 
-![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
@@ -59,6 +58,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
 
   <a href="https://github.com/JavierTaborda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierTaborda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
