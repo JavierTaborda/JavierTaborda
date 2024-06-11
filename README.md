@@ -52,9 +52,10 @@
    <a target="_blank" href="https://strava.app.link/NuF3aw2qlKb">
    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"></img></a>
         &emsp;
+  ![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
   <br>
 </p>
-![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
