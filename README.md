@@ -1,6 +1,6 @@
 <h1 align="center">Hi Devs, I'm Javier Taborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 💻 &nbsp;About Me 
+### 👩‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; I am a Backend Developer and I am an Information Engineer from Venezuela
 - 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 200 users.
