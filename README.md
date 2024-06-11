@@ -13,7 +13,6 @@
 
 <br>
 
-
 ### 💻 &nbsp;My Stack Work 
 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img>
@@ -39,6 +38,7 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></img>	
 
+<br>
 
 ### 📞 &nbsp;Contact me
 <p>
