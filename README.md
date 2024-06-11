@@ -1,6 +1,6 @@
 <h1 align="center">Hi Devs, I'm Javier Taborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 👩‍💻 &nbsp;About Me  ![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
+### 👩‍💻 &nbsp;About Me  
 
 - 🎓 &nbsp; I am a Backend Developer and I am an Information Engineer from Venezuela
 - 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 200 users.
@@ -9,7 +9,7 @@
 - 📊 &nbsp; Created **indicators and metrics** with Power BI and Excel, providing insights for decision-making.
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
- 
+ - &nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
