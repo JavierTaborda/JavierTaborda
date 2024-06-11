@@ -10,7 +10,7 @@
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
 
-![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda)
+![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flat-square)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
