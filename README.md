@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></img>	
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></img>	
 <br>
+  ![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
 
 ### 📞 &nbsp;Contact me
 <p>
@@ -52,7 +53,6 @@
    <a target="_blank" href="https://strava.app.link/NuF3aw2qlKb">
    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"></img></a>
         &emsp;
-  ![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=for-the-badge&abbreviated=true&color=brightgreen)
   <br>
 </p>
 
