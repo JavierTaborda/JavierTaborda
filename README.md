@@ -37,7 +37,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierTaborda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierTaborda&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierTaborda&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
