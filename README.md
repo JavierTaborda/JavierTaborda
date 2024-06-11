@@ -10,7 +10,7 @@
 - 📊 &nbsp; Created **indicators and metrics** with Power BI and Excel, providing insights for decision-making.
 - 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
 - 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
-![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
+&nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
 <br>
 
 ### 💻 &nbsp;My Stack Work 
