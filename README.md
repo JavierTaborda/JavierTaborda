@@ -1,5 +1,6 @@
 <h1 align="center">Hi Devs, I'm Javier Taborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  &nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
+&nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
+
 ### 👩‍💻 &nbsp;About Me  
 
 - 🎓 &nbsp; I am a Backend Developer and I am an Information Engineer from Venezuela
