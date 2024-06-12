@@ -49,6 +49,44 @@
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=whi"></img>	
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></img>
 <br>
+
+# Herramientas y Tecnologías
+
+## 🛠️ Herramientas de Desarrollo
+!VSCode
+!Visual Studio
+
+## 💻 Frontend
+!Blazor
+!Bootstrap
+!CSS3
+!HTML5
+!JavaScript
+
+## ⚙️ Backend
+!.NET
+!C#
+!Postman
+!Swagger
+!JWT
+!Microsoft SQL Server
+
+## 🤖 IoT
+!Raspberry Pi
+!Arduino IDE
+!Node-Red
+
+## 📊 Análisis de Datos
+!PowerBI
+!Microsoft Excel
+!Microsoft SQL Server
+!Microsoft SharePoint
+
+## 📝 Para Proyectos
+!Microsoft PowerPoint
+!Microsoft Teams
+!Udemy
+
 ### 📞 &nbsp;Contact me
 <p>
   <br>	
