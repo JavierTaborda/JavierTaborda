@@ -4,7 +4,7 @@
 ## 👩‍💻 &nbsp;About Me  
 
 - 🎓 &nbsp; I am a passionate **Backend Developer** with a degree in **Information Engineering** from the UNITEC, Venezuela.
-- 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 200 users.
+- 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 500 users.
 - 🤖 &nbsp;  Implemented **IoT technology** to connect plant equipment, enabling real-time monitoring and OEE analysis.
 - 💾 &nbsp;  Optimized **SQL Server databases**, enhancing operational efficiency and handling data from DB2 and AS400 reports.
 - 📊 &nbsp; Created **indicators and metrics** with Power BI and Excel, providing insights for decision-making.
