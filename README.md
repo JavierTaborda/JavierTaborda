@@ -2,7 +2,6 @@
 
 ## 👩‍💻 &nbsp;About Me  &nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
 
-
 - 🚀 Passionate Software Developer with expertise in building scalable web, desktop, and mobile applications. Focused on backend development,
    database architecture, and full-stack integration to drive digital transformation in industrial and business environments.
 -  🎓 I have a degree in Information Engineering from UNITEC, Venezuela, and have a proven track record of delivering high-impact solutions
@@ -20,8 +19,6 @@
 - 🤖 Implemented **IoT technology** with Raspberry Pi, Node-RED, and Arduino to connect plant equipment, enabling **real-time monitoring** and **OEE analysis**.
 - 🛠️ Optimized **SQL Server databases**, improving operational efficiency and integrating data from **DB2** and **AS400** reports.
 - 📊 Created **dashboards and metrics** with Power BI and Excel, providing actionable insights for decision-making.
-
-<br>
 
 ## 💻 &nbsp;My Stack Work 
 
