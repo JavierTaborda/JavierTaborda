@@ -1,15 +1,25 @@
 <h1 align="center">Hi Devs, I'm Javier Taborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-&nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
-## 👩‍💻 &nbsp;About Me  
+## 👩‍💻 &nbsp;About Me  &nbsp;![https://komarev.com/ghpvc/?username=JavierTaborda](https://komarev.com/ghpvc/?username=JavierTaborda&style=flag&abbreviated=true&color=brightgreen)
 
-- 🎓 &nbsp; I am a passionate **Backend Developer** with a degree in **Information Engineering** from the UNITEC, Venezuela.
-- 🌐 &nbsp; Developed a **web platform and REST API** for production management at GrandBay, used daily by over 500 users.
-- 🤖 &nbsp;  Implemented **IoT technology** to connect plant equipment, enabling real-time monitoring and OEE analysis.
-- 💾 &nbsp;  Optimized **SQL Server databases**, enhancing operational efficiency and handling data from DB2 and AS400 reports.
-- 📊 &nbsp; Created **indicators and metrics** with Power BI and Excel, providing insights for decision-making.
-- 🛠️ &nbsp; Employed **Microsoft Office tools** for advanced project management.
-- 🚀 &nbsp; Led **automation projects** for processes, improving organizational productivity.
+
+- 🚀 Passionate Software Developer with expertise in building scalable web, desktop, and mobile applications. Focused on backend development,
+   database architecture, and full-stack integration to drive digital transformation in industrial and business environments.
+-  🎓 I have a degree in Information Engineering from UNITEC, Venezuela, and have a proven track record of delivering high-impact solutions
+  for companies like, MeruQ offcial patner of TPLink in Venezuela,  DFSK Venezuela, and Papeles Venezolanos C.A. with GrandBay
+
+## 🏆 &nbsp;Key Achievements
+### 🚗 **At DFSK Venezuela**
+- 🌐 Designed and developed **RESTful APIs** using .NET 8 for inventory management, **reducing search times by 40%**.
+- 📱 Built a **React Native app** with Firebase integration for **real-time vehicle inventory tracking**.
+### 🛒 **At Meruq**
+- 📱 Developed a **React Native app** with TypeScript and Supabase for **internal product inventory and sales**, improving stock management efficiency.
+- 🛠️ Maintained and updated **legacy software** built with .NET Framework, Windows Forms, and SQL Server.
+### 🏭 **At Papeles Venezolanos C.A. & GrandBay**
+- 🌐 Developed a **web platform and REST API** using .NET 6/8, C#, and SQL Server, used daily by **200+ users** for production management.
+- 🤖 Implemented **IoT technology** with Raspberry Pi, Node-RED, and Arduino to connect plant equipment, enabling **real-time monitoring** and **OEE analysis**.
+- 🛠️ Optimized **SQL Server databases**, improving operational efficiency and integrating data from **DB2** and **AS400** reports.
+- 📊 Created **dashboards and metrics** with Power BI and Excel, providing actionable insights for decision-making.
 
 <br>
 
