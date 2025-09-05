@@ -5,16 +5,20 @@
 - 🚀 Passionate Software Developer with expertise in building scalable web, desktop, and mobile applications. Focused on backend development,
    database architecture, and full-stack integration to drive digital transformation in industrial and business environments.
 -  🎓 I have a degree in Information Engineering from UNITEC, Venezuela, and have a proven track record of delivering high-impact solutions
-  for companies like, MeruQ offcial patner of TPLink in Venezuela,  DFSK Venezuela, and Papeles Venezolanos C.A. with GrandBay
+  for companies like, MeruQ offcial patner of TPLink in Venezuela and  DFSK Venezuela,  Papeles Venezolanos C.A. with GrandBay and Cyberlux C.A patneer of Frigilux
 
 ## 🏆 &nbsp;Key Achievements
-### 🚗 **At DFSK Venezuela**
+### 📺 **Cyberlux C.A. by Frigilux (2025-Present)**
+- 🧠 Designed a mobile app prototype for order management and creation using Figma, focusing on user experience and operational flow.
+- 📱 Developed the app for IOs and Android with Expo (React Native) and integrated Supabase for authentication and real-time data storage.
+- 🔧 Built the backend with NestJS, implementing RESTful APIs for order processing, user roles, and inventory synchronization.
+### 🚗 **DFSK Venezuela (2024-2025)**
 - 🌐 Designed and developed **RESTful APIs** using .NET 8 for inventory management, **reducing search times by 40%**.
 - 📱 Built a **React Native app** with Firebase integration for **real-time vehicle inventory tracking**.
-### 🛒 **At Meruq**
+### 🛒 **Meruq (2024-2025)**
 - 📱 Developed a **React Native app** with TypeScript and Supabase for **internal product inventory and sales**, improving stock management efficiency.
 - 🛠️ Maintained and updated **legacy software** built with .NET Framework, Windows Forms, and SQL Server.
-### 🏭 **At Papeles Venezolanos C.A. & GrandBay**
+### 🏭 **Papeles Venezolanos C.A. & GrandBay (2021-2024)**
 - 🌐 Developed a **web platform and REST API** using .NET 6/8, C#, and SQL Server, used daily by **200+ users** for production management.
 - 🤖 Implemented **IoT technology** with Raspberry Pi, Node-RED, and Arduino to connect plant equipment, enabling **real-time monitoring** and **OEE analysis**.
 - 🛠️ Optimized **SQL Server databases**, improving operational efficiency and integrating data from **DB2** and **AS400** reports.
